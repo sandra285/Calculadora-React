@@ -40,3 +40,10 @@ body {
   border: 5px solid white;
   border-radius: 20px;
 }
+
+.fila {
+  margin: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
